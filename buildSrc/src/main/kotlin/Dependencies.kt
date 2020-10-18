@@ -72,3 +72,7 @@ object Room {
     const val ktx = "androidx.room:room-ktx:2.2.5"
     const val runtime = "androidx.room:room-runtime:2.2.5"
 }
+
+object stylosVi{
+    const val stilosvita = ":EstilosVitarricoProyectoFinal"
+}

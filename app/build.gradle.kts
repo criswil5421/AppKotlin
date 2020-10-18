@@ -128,8 +128,9 @@ dependencies {
 
     implementation(Dependencies.kotlin)
 
+    //implementation(project(stylosVi.stilosvita))
 
-
+    implementation(project(":EstilosVitarricoProyectoFinal"))
 }
 
 ktlint {
